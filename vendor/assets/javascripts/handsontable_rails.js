@@ -1,2 +1,2 @@
-//= require 'jquery.handsontable.full'
+//= require 'handsontable.full.min'
 
