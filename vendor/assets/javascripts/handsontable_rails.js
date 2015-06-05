@@ -1,2 +1,2 @@
-//= require 'handsontable.full.min'
+//= require 'handsontable.full'
 

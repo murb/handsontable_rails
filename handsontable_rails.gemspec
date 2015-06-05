@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = HandsontableRails::VERSION
   spec.authors       = ["jackie lee"]
   spec.email         = ["894849464@qq.com"]
-  spec.description   = %q{mount jquery-handsontable to rails`}
+  spec.description   = %q{mount handsontable to rails`}
   spec.summary       = %q{}
   spec.homepage      = ""
   spec.license       = "MIT"
